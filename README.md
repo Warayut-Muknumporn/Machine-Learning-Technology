@@ -1,5 +1,5 @@
-# Machine-Learning-Technology
-This is one of project in Module ML Technology from University of Southampton
+# Machine-Learning-Technology (NLP)
+This is one of project in Module ML Technology from University of Southampton 
 
 Introduction
 
